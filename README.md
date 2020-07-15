@@ -47,31 +47,32 @@ In this project, we have used the VADER Sentiment Analysis tool for classifying 
   - Overall sentiment score data for plotting overall sentiment plots
 - <b>Make beautiful visualizations (graphs and plots!)</b> :heart_eyes:
   - <b>Doughnut plot</b>
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/doughnut.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/doughnut.png)
   - <b>Bar charts</b>
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/monthly.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/monthly.png)
   - <b>Geographical plots</br>
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/geo.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/geo.png)
   - <b>Wordclouds</b>
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/wordcloud.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/wordcloud.png)
   - <b>Hashtag plots</b>
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/more_popular.png)
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/less_popular.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/more_popular.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/less_popular.png)
   - <b>And More!</b>
-  ![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/Screenshots/daily.png)
+  ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/daily.png)
 - <b>Deploy the visualization dashboard online for the world to see!</b> :smirk:
   - Optimizing entire data for a smooth user-experience on the app
   
 # Gifs of hosted app!
-![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/1.gif)
-![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/2.gif)
-![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/3.gif)
-![Alt Text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/4.gif)
+![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/1.gif)
+![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/2.gif)
+![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/3.gif)
+![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/4.gif)
+
 
 # Project report and presentation
 They are stored in the docs/ folder of this repo <br>
-- Check out the ![Report!](https://github.com/SmartPracticeschool/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/FINAL%20PROJECT%20REPORT.pdf)
-- or the ![Presentation!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/docs/IBM_Hack_Challenge_2020_PPT.pptx)
+- Check out the ![Report!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/FINAL%20PROJECT%20REPORT.pdf)
+- or the ![Presentation!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/IBM_Hack_Challenge_2020_PPT.pptx)
 
 
 # Authors
