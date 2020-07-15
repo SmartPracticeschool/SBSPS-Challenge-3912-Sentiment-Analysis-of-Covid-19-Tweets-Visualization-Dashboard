@@ -63,10 +63,10 @@ In this project, we have used the VADER Sentiment Analysis tool for classifying 
   - Optimizing entire data for a smooth user-experience on the app
   
 # Gifs of hosted app!
-![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/1.gif)
-![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/2.gif)
-![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/3.gif)
-![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard//blob/master/gifs/4.gif)
+![](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/1.gif)
+![](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/2.gif)
+![](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/3.gif)
+![](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/4.gif)
 
 
 # Project report and presentation
