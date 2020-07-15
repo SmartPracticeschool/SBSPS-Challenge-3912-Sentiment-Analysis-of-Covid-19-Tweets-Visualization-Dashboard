@@ -77,13 +77,13 @@ They are stored in the docs/ folder of this repo <br>
 
 # Authors
 1. <b>Animesh Singh</b>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aadityakapoor06)](https://github.com/aadityakapoor06)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadityakapoor06/)](https://www.linkedin.com/in/aadityakapoor06/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditya.kapoor06@gmail.com)](mailto:aaditya.kapoor06@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/animesh.singh42/)](https://www.instagram.com/animesh.singh42/)
-
-2. <b>Aaditya Kapoor</b>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/blues1998)](https://github.com/blues1998)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animesh-singh-profile/)](https://www.linkedin.com/in/animesh-singh-profile/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:animesh98388@gmail.com)](mailto:animesh98388@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/animesh.singh42/)](https://www.instagram.com/animesh.singh42/)
+
+2. <b>Aaditya Kapoor</b>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aadityakapoor06)](https://github.com/aadityakapoor06)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadityakapoor06/)](https://www.linkedin.com/in/aadityakapoor06/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aaditya.kapoor06@gmail.com)](mailto:aaditya.kapoor06@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/aaditya0616/)](https://www.instagram.com/aaditya0616/)
