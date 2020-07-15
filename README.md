@@ -71,8 +71,8 @@ In this project, we have used the VADER Sentiment Analysis tool for classifying 
 
 # Project report and presentation
 They are stored in the docs/ folder of this repo <br>
-- Check out the![Report!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/FINAL%20PROJECT%20REPORT.pdf)
-- or the![Presentation!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/IBM_Hack_Challenge_2020_PPT.pptx)
+- Check out the ![Report!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/FINAL%20PROJECT%20REPORT.pdf)
+- or the ![Presentation!](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/docs/IBM_Hack_Challenge_2020_PPT.pptx)
 
 
 # Authors
