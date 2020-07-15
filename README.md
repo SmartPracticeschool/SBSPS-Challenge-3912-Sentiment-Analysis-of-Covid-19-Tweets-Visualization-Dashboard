@@ -46,22 +46,22 @@ In this project, we have used the VADER Sentiment Analysis tool for classifying 
   - Frequency of hashtags for creating wordcloud
   - Overall sentiment score data for plotting overall sentiment plots
 - <b>Make beautiful visualizations (graphs and plots!)</b> :heart_eyes:
-  - <b>Doughnut plot</b>
+  - <b>Doughnut plot</b><br>
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/doughnut.png)
-  - <b>Bar charts</b>
+  - <b>Bar charts</b><br>
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/monthly.png)
   - <b>Geographical plots</br>
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/geo.png)
-  - <b>Wordclouds</b>
+  - <b>Wordclouds</b><br>
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/wordcloud.png)
-  - <b>Hashtag plots</b>
+  - <b>Hashtag plots</b><br>
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/more_popular.png)
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/less_popular.png)
-  - <b>And More!</b>
+  - <b>And More!</b><br>
   ![alt text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/Screenshots/daily.png)
 - <b>Deploy the visualization dashboard online for the world to see!</b> :smirk:
   - Optimizing entire data for a smooth user-experience on the app
-  
+  <br><br>
 # Gifs of hosted app!
 ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/1.gif)
 ![](https://github.com/SmartPracticeschool/SBSPS-Challenge-3912-Sentiment-Analysis-of-Covid-19-Tweets-Visualization-Dashboard/blob/master/gifs/2.gif)
