@@ -5,7 +5,8 @@
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 <br>
 
-<b>Check out our hosted -> [app](https://covid-19-ibm.herokuapp.com/) </b> 
+<b>Check out our hosted -> [app](https://covid-19-ibm.herokuapp.com/) </b> <br>
+<b>Check out the -> [video demonstration](https://youtu.be/WLjL-Nw67Ek) of the app </b>
 
 ## About IBM HACK Challenge 
 <i><b> CODE FOR A BRIGHTER TOMORROW </b></i>
